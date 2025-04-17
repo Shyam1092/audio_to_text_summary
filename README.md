@@ -24,7 +24,7 @@ A Python tool that converts audio files to text and generates concise summaries 
 
 1. Clone this repository:
 ```bash
-git clone <[repository-url](https://github.com/Shyam1092/audio_to_text_summary)>
+git clone <https://github.com/Shyam1092/audio_to_text_summary>
 cd <audio_summarizer.py>
 ```
 
